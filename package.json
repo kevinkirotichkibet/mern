@@ -18,7 +18,11 @@
   "author": "",
   "license": "ISC",
   "bugs": {
+<<<<<<< HEAD
     "url": "https://github.com/kevinkirotichkibet/mern/issues"
+=======
+    "url": "https://github.com/kevinkirotichkibet/mern/issues"git
+>>>>>>> origin/dev
   },
   "homepage": "https://github.com/kevinkirotichkibet/mern#readme"
 }
